@@ -3,6 +3,10 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://thegridsmp.github.io/wiki',
+	trailingSlash: 'ignore',
+	base: '/wiki',
+
 	integrations: [
 		starlight({
 			title: 'My Docs',

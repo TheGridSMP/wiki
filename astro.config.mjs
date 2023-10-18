@@ -9,7 +9,11 @@ export default defineConfig({
 
 	integrations: [
 		starlight({
-			title: 'The Grid SMP',
+			title: 'GSMP Wiki',
+			logo: {
+				src: './src/assets/logo.png',
+				replacesTitle: true,
+			},
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},

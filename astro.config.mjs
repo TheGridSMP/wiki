@@ -33,7 +33,11 @@ export default defineConfig({
 			],
 			customCss: [
 				'./src/styles/custom.css',
-			]
+			],
+			components: {
+				// Override the default `Hero` component.
+				Hero: './src/components/Hero.astro',
+			},
 		}),
 	],
 });

@@ -10,7 +10,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'GSMP Wiki',
-			favicon: '/images/favicon.png'
+			favicon: '/images/favicon.png',
 			logo: {
 				src: './src/assets/logo.webp',
 				replacesTitle: true,

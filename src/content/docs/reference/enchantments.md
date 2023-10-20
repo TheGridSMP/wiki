@@ -5,13 +5,13 @@ description: A list of custom enchantments
 
 ## Fishing rods
 | Name   | Max Level | Description                      |
-|--------|-----------|----------------------------------|
+|--------|:---------:|----------------------------------|
 | Sparks |     5     | Summons lightning.               |
 | Angler |     3     | Increases Kingfisher experience. |
 
 ## Pickaxes
 | Name              | Max Level | Description                                             |
-|-------------------|-----------|---------------------------------------------------------|
+|-------------------|:---------:|---------------------------------------------------------|
 | Blast Mining      |     ?     | Chance to dig a `3x3` hole.                             |
 | Dynamite          |     ?     | Explodes a 5x5x5 hole; explodes a 9x9x9 hole (30 secs). |
 | Prospector        |     ?     | Increases tunneling experience.                         |

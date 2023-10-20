@@ -3,10 +3,10 @@
 }*/
 
 .hero > img {
-    width: min(100%, 35rem);
+    width: min(100%, 30rem);
 }
 
-.hero div {
+div.hero {
     grid-template-columns: 5fr 5fr;
     gap: 5%;
 }

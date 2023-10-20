@@ -3,6 +3,8 @@ title: Custom Enchantments
 description: A list of custom enchantments
 ---
 
+`n` is a placeholder, which stands for the level of the enchant.
+
 ## Fishing rods
 | Name   | Max Level | Description                      |
 |--------|:---------:|----------------------------------|
@@ -10,19 +12,20 @@ description: A list of custom enchantments
 | Angler |     3     | Increases Kingfisher experience. |
 
 ## Pickaxes
-| Name              | Max Level | Description                                             |
-|-------------------|:---------:|---------------------------------------------------------|
-| Blast Mining      |     ?     | Chance to dig a `3x3` hole.                             |
-| Dynamite          |     ?     | Explodes a 5x5x5 hole; explodes a 9x9x9 hole (30 secs). |
-| Prospector        |     ?     | Increases tunneling experience.                         |
-| Nether Prospector |     ?     | Increases ancient debris drops.                         |
-| Infernal Touch    |     ?     | Smelts mined ore.                                       |
-| Wisdom            |     ?     | Increases experience drop.                              |
-| Veinminer         |     ?     | Breaking one ore breaks others nearby.                  |
-| X-ray             |     ?     | Hightlights ores nearby.                                |
+| Name              | Max Level | Description                                                                 |
+|-------------------|:---------:|-----------------------------------------------------------------------------|
+| Blast Mining      |     3     | `5*n`% chance to mine blocks in a `3x3` area.                               |
+| Dynamite          |     2     | Mines blocks in a `1 + 4*n` area.                                           |
+| Prospector        |     5     | Gives a `3*n` boost to mining experience.                                   |
+| Nether Prospector |     2     | Gives a `34`% or `75`% boost (depends on the level).                        |
+| Infernal Touch    |     1     | Automatically smelts mined blocks.                                          |
+| Veinminer         |     4     | Mine up to `2 + 3*n` blocks in veins at once.                               |
+| Xray              |     3     | Makes ores within `3 + 2*n` blocks shine through walls for `1 + n` seconds. |
 
 ## Shovels
-Excavation: digs extra consecutive blocks 
+| Name       | Max Level | Description                        |
+|------------|:---------:|------------------------------------|
+| Excavation |     5     | Digs `n` extra consecutive blocks. |
 
 ## Swords
 Finishing: Increases dmg on low hp targets
@@ -131,7 +134,7 @@ Contagion: Toxic cloud spawns where your trident lands
 Green Thumb: Increases farming experience
 Replenish: Replants crops 
 
-## Tools only
+## Tools & Weapons
 Transmission: teleports you forward
 Charge: launch yourself forwards
 Wisdom: Increases Exp dropped(tools only) 
@@ -142,7 +145,3 @@ Stun: chance to freeze enemies for 1 second
 Repairing, repairs 1 durability for each 1.5 seconds; Increases 1 durability per 1.5 per level.(currently broken)
 Soul Absorb: Kills give regen 2
 Soul Bound: keep item after death
-
-## Further reading
-
-- Read [link to another page](/wiki/getting-started/) in the GSMP Wiki(ithink)

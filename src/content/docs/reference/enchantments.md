@@ -4,18 +4,22 @@ description: A list of custom enchantments
 ---
 
 ## Fishing rods
-Sparks: summons lighting(percentage chance) Max:5
-Angler: increases Kingfisher experience, max:3 
+| Name   | Max Level | Description                      |
+|--------|-----------|----------------------------------|
+| Sparks |     5     | Summons lightning.               |
+| Angler |     3     | Increases Kingfisher experience. |
 
 ## Pickaxes
-Blastmining: chance to dig a 3x3 hole
-Dynamite: explodes a 5x5x5 hole; explodes a 9x9x9 hole (30 secs)
-Prospector: increases tunneling experience
-Nether Prospector: increases ancient debris drops
-Infernal Touch: Autosmelts blocks
-Wisdom: Increases Exp dropped
-Vienminer: breaking one ore breaks others; 3, 7, 14
-Xray: self explanatory(broken)
+| Name              | Max Level | Description                                             |
+|-------------------|-----------|---------------------------------------------------------|
+| Blast Mining      |     ?     | Chance to dig a `3x3` hole.                             |
+| Dynamite          |     ?     | Explodes a 5x5x5 hole; explodes a 9x9x9 hole (30 secs). |
+| Prospector        |     ?     | Increases tunneling experience.                         |
+| Nether Prospector |     ?     | Increases ancient debris drops.                         |
+| Infernal Touch    |     ?     | Smelts mined ore.                                       |
+| Wisdom            |     ?     | Increases experience drop.                              |
+| Veinminer         |     ?     | Breaking one ore breaks others nearby.                  |
+| X-ray             |     ?     | Hightlights ores nearby.                                |
 
 ## Shovels
 Excavation: digs extra consecutive blocks 

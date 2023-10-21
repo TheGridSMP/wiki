@@ -1,10 +1,8 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
 	site: 'https://thegridsmp.github.io/wiki',
-	trailingSlash: 'ignore',
 	base: '/wiki',
 
 	integrations: [
@@ -30,6 +28,7 @@ export default defineConfig({
 					label: 'Lore',
 					items: [
 						{ label: 'EVA Logs', link: '/lore/eva-logs/' },
+						{ label: 'The Source and The Engine', link: '/lore/source-and-engine/' },
 						{
 							label: 'Vita Lore',
 							items: [
@@ -52,7 +51,6 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			],
 			components: {
-				// Override the default `Hero` component.
 				Hero: './src/components/Hero.astro',
 			},
 		}),

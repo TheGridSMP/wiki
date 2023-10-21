@@ -4,6 +4,7 @@ description: A list of custom enchantments
 ---
 <todo>
 Blackout formula
+Bleed Formula
 
 `n` is a placeholder, which stands for the level of the enchant.
 

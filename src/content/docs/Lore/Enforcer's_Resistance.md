@@ -2,9 +2,7 @@
 title: Enforcer's Resistance
 description: Part 2
 ---
-a
 
-# Enforcer's Resistance
 
 The enemies all retreated at once back into the forest as a tide pulled back out to sea, pulling the bodies of the Vanguards with them. The Enforcers watched all of this go down in a matter of minutes. Less even. As quick as the vanguard was to destroy hundreds of enemies, they were overwhelmed by sheer numbers just as quickly, and just like that, the Vanguard School was wiped out.
 

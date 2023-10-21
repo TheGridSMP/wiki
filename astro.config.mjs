@@ -54,7 +54,7 @@ export default defineConfig({
 									items: [
 										{ label: 'Lunox', link: '/reference/groups/lunox/' },
 										{ label: 'Solfax', link: '/reference/groups/solfax/' },
-										{ label: 'Vita', autogenerate: { directory: '/reference/characters/groups/vita/', collapsed: true } },
+										{ label: 'Vita', autogenerate: { directory: '/reference/groups/vita/', collapsed: true } },
 									]
 								},
 								{ label: 'Players', autogenerate: { directory: '/reference/characters/players/', collapsed: true } },

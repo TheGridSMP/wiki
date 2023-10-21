@@ -50,8 +50,8 @@ It is presumed that the replicated versions of the core components were all dest
 It took Sloth some time to get over the memories of his previous version.
 Replication takes its toll on the body and mind, and Sloth is still unsure if he is a replica as well, or the real version of himself.
 
-In fact...none of us know yet.
+In fact... none of us know yet.
 
 More information is being decrypted currently.
-We will know everything...soon.
-EVA, logging off.
+We will know everything... soon.
+[EVA](/reference/characters/eva/), logging off.

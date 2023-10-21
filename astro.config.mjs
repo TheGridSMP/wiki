@@ -27,7 +27,7 @@ export default defineConfig({
 				{
 					label: 'Lore',
 					items: [
-						{ label: 'Unknown EVA Log', link: '/lore/unknwown-eva-log/' },
+						{ label: 'Unknown EVA Log', link: '/lore/unknown-eva-log/' },
 						{ label: 'The Source and The Engine', link: '/lore/source-and-engine/' },
 						{
 							label: 'Vita Lore',

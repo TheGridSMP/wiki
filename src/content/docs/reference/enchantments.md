@@ -6,6 +6,8 @@ description: A list of custom enchantments
 <todo>
 Blackout formula
 Bleed Formula
+Swords, Axes, Tridents, Armor, Hoes
+
 
 `n` is a placeholder, which stands for the level of the enchant.
 
@@ -40,7 +42,6 @@ Bleed Formula
 | Bleed        |     7     | ?                                                 | -                                                             | Legendary |
 | Brightness   |     5     | Deal `4*n`% more dmg to wardens in the deep dark  | Sharpness, Smite, Bane of Arthropods, Introversion, Slaughter | Legendary |
 | Boss Fortune |     5     | Extra `5*n`% chance to drop boss loot             | -                                                             | Common    |
-| Boss Hunter  |     8     | Extra `10*n`% damage dealt to bosses              | -                                                             | Rare      |
 | Caffeinated  |     3     | Extra `5*n`% attack speed while sprinting         | -                                                             | Rare      |
 | Charge       |     2     | Right click to launch you `n*5x` speed            | -                                                             | Legendary |
 | Confusion    |     4     | Gives a `2*n`% chance of shuffling opponent's inv | -                                                             | Unique    |
@@ -78,7 +79,17 @@ Bleed Formula
 
 
 ## Boots
-Streamline: Increases movement speed
+| Name           | Max Level | Description                                     | Conflicts    | Rarity    |
+|----------------|:---------:|-------------------------------------------------|--------------|-----------|
+| Escape         |     2     | Gives a short `n%` speed boost after taking dmg | Streamlining | Epic      |
+|
+
+
+## Leggings
+| Name           | Max Level | Description                                     | Conflicts    | Rarity    |
+|----------------|:---------:|-------------------------------------------------|--------------|-----------|
+| Poision Ivy    |     2     | -                                               | Thorns       | Epic      |
+
 
 ## Elytras
 Rocket Saver: chance to not consume rockets 
@@ -96,35 +107,35 @@ Strong Arm: increases strength
 Flashbang: Chance to blind enemies, 1% per level
 
 ## Axes
-Shura: Increases dmg the lower your HP
-Finishing: Increases dmg on low hp targets
-Boss Hunter: Increases dmg against Bosses
-Boss Fortune: Increases Boss drops
-Crit Luck: increases Crit Chance
-Dexterity: Increases attack speed
-First Strikes: Increases dmg on targets with full HP
-Cubism: Increased dmg against slimes and magma cubes
-Introversion: Increased dmg against players
-Abrasion: increased dmg to armor
-End affinity: increased dmg in the end dimension
-Nether Affinity: increased dmg in the nether 
-Forceful Crits: Increased crit chance 
-Criticals: increases crit dmg
-Might: increases strength (glitched)
-Ninja: increases dmg while crouched
-Vicious: increases ferocity
-Ender Slayer: increased dmg to endermen 
-Slaughter: Increased dmg to passive mobs
+| Name         | Max Level | Description                                       | Conflicts                                                     | Rarity    |
+|--------------|:---------:|---------------------------------------------------|---------------------------------------------------------------|-----------|
+| Abrasion     |     2     | Deals an extra `n` amount of damage to armor      | -                                                             | Legendary |
+| Blackout     |     4     | ?                                                 | -                                                             | Legendary |
+| Bleed        |     7     | ?                                                 | -                                                             | Legendary |
+| Brightness   |     5     | Deal `4*n`% more dmg to wardens in the deep dark  | Sharpness, Smite, Bane of Arthropods, Introversion, Slaughter | Legendary |
+| Boss Fortune |     5     | Extra `5*n`% chance to drop boss loot             | -                                                             | Common    |
+| Caffeinated  |     3     | Extra `5*n`% attack speed while sprinting         | -                                                             | Rare      |
+| Charge       |     2     | Right click to launch you `n*5x` speed            | -                                                             | Legendary |
+| Confusion    |     4     | Gives a `2*n`% chance of shuffling opponent's inv | -                                                             | Unique    |
+| Crit Luck    |     3     | Gives `4*n` Crit Chance                           | -                                                             | Uncommon  |
+| Criticals    |     3     | Gives `10*n`% increased crit damage               | -                                                             | Epic      |
+| Cubism       |     7     | Deal `5*n` more against slimes and magma cubes    | -                                                             | Rare      |
 
 ## Crossbow
 Pentashot: Shoots 5 arrows 
 Jumpshot: Increases dmg while airborne
 Steel String: increases strength
 
-## (glitched)
+## Bows
+| Name         | Max Level | Description                                       | Conflicts                                                     | Rarity    |
+|--------------|:---------:|---------------------------------------------------|---------------------------------------------------------------|-----------|
+| Boss Hunter  |     8     | Extra `10*n`% damage dealt to bosses              | -                                                             | Rare      |
+| Cubism       |     7     | Deal `5*n` more against slimes and magma cubes    | -                                                             | Rare      |
+| Crit Luck    |     3     | Gives `4*n` Crit Chance                           | -                                                             | Uncommon  |
+| Criticals    |     3     | Gives `10*n`% increased crit damage               | -                                                             | Epic      |
+
 Overload: Increases crit chance and crit dmg
 Skull Puncture: increases headshot dmg
-Crit Luck: Increases Crit chance
 Thor: Chance to summon lightning, increases lightning per 1 and chance per level 
 Sniper: Increased dmg to far targets
 Strong Arm: increases strength

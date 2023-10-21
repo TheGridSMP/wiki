@@ -27,24 +27,24 @@ export default defineConfig({
 				{
 					label: 'Lore',
 					items: [
-						{ label: 'EVA Logs', link: '/lore/eva-logs/' },
+						{ label: 'Unknown EVA Log', link: '/lore/unknwown-eva-log/' },
 						{ label: 'The Source and The Engine', link: '/lore/source-and-engine/' },
 						{
 							label: 'Vita Lore',
 							items: [
-								{ label: 'Vanguard\'s Gamble', link: '/lore/part-1/' },
-								{ label: 'Enforcer\'s Resistance', link: '/lore/part-2/' },
-								{ label: 'Destroyer\'s Sacrifice', link: '/lore/part-3/' },
-								{ label: 'Hunter\'s Code', link: '/lore/part-4/' },
-								{ label: 'The Heavenly Nightmare', link: '/lore/part-5/' },
-								{ label: 'The Last Avitazens', link: '/lore/part-6/' },
+								{ label: 'Vanguard\'s Gamble', link: '/lore/vita/part-1/' },
+								{ label: 'Enforcer\'s Resistance', link: '/lore/vita/part-2/' },
+								{ label: 'Destroyer\'s Sacrifice', link: '/lore/vita/part-3/' },
+								{ label: 'Hunter\'s Code', link: '/lore/vita/part-4/' },
+								{ label: 'The Heavenly Nightmare', link: '/lore/vita/part-5/' },
+								{ label: 'The Last Avitazens', link: '/lore/vita/part-6/' },
 							],
 						},
 					],
 				},
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'reference', collapsed: true },
 				},
 			],
 			customCss: [

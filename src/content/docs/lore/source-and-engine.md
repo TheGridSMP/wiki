@@ -1,10 +1,10 @@
 ---
 title: The Source and The Engine
-description: TODO
+description: A burnt page from a book talking about Sources and Engines...
 ---
 
-### *The Essence of World Building*
-## The Source and The Engine
+*The Essence of World Building*
+
 Generally, every reality has an Engine and a Source.
 
 The Engines are people or objects, that had created The Source. They are usually very powerful and have direct connection to their Source. While it may be obvious that The Engine should be sentient, it's not always true. Some Engines use their primal instincts to survive.
@@ -14,4 +14,4 @@ The Source is usually an object, that possess some intellect whether The Engine 
 It's also important to say, that if The Source loses the connection or trust in The Engine, it can block The Engine's powers via resonation.
 
 ### *Original*
-![../../../assets/images/lore/source-and-engine.png]
+![A burnt page from a book talking about Sources and Engines...](../../../assets/images/lore/source-and-engine.png)

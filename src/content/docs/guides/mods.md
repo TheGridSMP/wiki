@@ -1,9 +1,9 @@
 ---
 title: Recommended Mods
-description: While mods are not generally required, we still recommend you to play with some Fabric or Quilt mods.
+description: While mods are not generally required, we recommend playing with some Fabric or Quilt mods.
 ---
 
-While mods are not generally required, we still recommend you to play with some Fabric or Quilt mods. They provide optimization and various QoL features that enhance the experience of the game.
+While mods are not generally required, we recommend playing with some Fabric or Quilt mods. They provide optimization and various QoL features that enhance the experience of the game.
 
 ## Must-have
 It's important for your game to run smoothly and fancy!

@@ -13,5 +13,6 @@ The Source is usually an object, that possess some intellect whether The Engine 
 
 It's also important to say, that if The Source loses the connection or trust in The Engine, it can block The Engine's powers via resonation.
 
-### *Original*
+
 ![A burnt page from a book talking about Sources and Engines...](../../../assets/images/lore/source-and-engine.png)
+(*original*)

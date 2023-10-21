@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-	site: 'https://thegridsmp.github.io/wiki',
+	site: 'https://thegridsmp.github.io',
 	base: '/wiki',
 
 	integrations: [

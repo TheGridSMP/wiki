@@ -6,7 +6,7 @@ description: Error
 *This is an unknown [EVA](/wiki/reference/characters/eva/) log report*
 
 It was a different time.
-He was different...and yet, he wasn't.
+He was different... and yet, he wasn't.
 
 Our decrypted records have indicated that there are indeed, multiple versions of [Sloth](/wiki/reference/characters/sloth/).
 Due to the ship's auto-defense mechanism, every time the ship is threatened by an external force, a replica of the ship, and all of its core components, are created during a dimensional transfer, leaving the original as a decoy.
@@ -54,4 +54,4 @@ In fact... none of us know yet.
 
 More information is being decrypted currently.
 We will know everything... soon.
-[EVA](/reference/characters/eva/), logging off.
+[EVA](/wiki/reference/characters/eva/), logging off.

@@ -44,7 +44,24 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference', collapsed: true },
+					items: [
+						{
+							label: 'Characters',
+							items: [
+								{ label: 'Enchantments', link: '/reference/enchantments/' },
+								{
+									label: 'Groups',
+									items: [
+										{ label: 'Lunox', link: '/reference/groups/lunox/' },
+										{ label: 'Solfax', link: '/reference/groups/solfax/' },
+										{ label: 'Vita', autogenerate: { directory: '/reference/characters/groups/vita/', collapsed: true } },
+									]
+								},
+								{ label: 'Players', autogenerate: { directory: '/reference/characters/players/', collapsed: true } },
+								{ label: 'Non-Players', autogenerate: { directory: '/reference/characters/non-players/', collapsed: true } },
+							]
+						}
+					]
 				},
 			],
 			customCss: [

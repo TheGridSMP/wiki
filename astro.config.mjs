@@ -22,9 +22,25 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{ label: 'Getting Started', link: '/guides/getting-started/' },
 						{ label: 'Recommended Mods', link: '/guides/mods/' },
+					],
+				},
+				{
+					label: 'Lore',
+					items: [
+						{ label: 'EVA Logs', link: '/lore/eva-logs/' },
+						{
+							label: 'Vita Lore',
+							items: [
+								{ label: 'Vanguard\'s Gamble', link: '/lore/part-1/' },
+								{ label: 'Enforcer\'s Resistance', link: '/lore/part-2/' },
+								{ label: 'Destroyer\'s Sacrifice', link: '/lore/part-3/' },
+								{ label: 'Hunter\'s Code', link: '/lore/part-4/' },
+								{ label: 'The Heavenly Nightmare', link: '/lore/part-5/' },
+								{ label: 'The Last Avitazens', link: '/lore/part-6/' },
+							],
+						},
 					],
 				},
 				{

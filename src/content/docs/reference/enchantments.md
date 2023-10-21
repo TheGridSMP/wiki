@@ -32,26 +32,20 @@ Bleed Formula
 
 
 ## Swords
-| Name          | Max Level | Description                                       | Conflicts                                                |
-|---------------|-----------|---------------------------------------------------|----------------------------------------------------------|
-| Abrasion      |     2     | Deals an extra `n` amount of damage to armor      | None                                                     |
-| Blackout      |     4     |                                                   | None                                                     |
-| Bleed         |     7     |                                                   | None                                                     |
-| Brightness    |     5     | Deal `n*4%` more dmg to wardens in the deep dark  | Sharpness, Smite, Bane of Artho, Introversion, Slaughter |
-| Boss Fortune  |     5     | Extra `n*5%` chance to drop boss loot             |
-| Boss Hunter   |     8     | Extra `n*10% damage dealt to bosses               |
-| Caffeinated   |     3     | Extra `n*5%` attack speed while sprinting         |
-| Charge        |     2     | Right click to launch you `n*5x` speed            |
-| Confusion     |     4     | Gives a `n*2%` chance of shuffling opponent's inv |
-| Crit Luck     |     3     | Gives `n*4` Crit Chance                           |
-| Criticals     |     3     | Gives `n*10%` increased crit damage               |
-| Cubism        |     7     | Deal `n*5` more against slimes and magma cubes    |
-|   |          |   |
-|   |          |   |
-|   |          |   |
-|   |          |   |
-|   |          |   |
-|   |          |   |
+| Name         | Max Level | Description                                      | Conflicts                                                |
+|--------------|:---------:|--------------------------------------------------|----------------------------------------------------------|
+| Abrasion     |     2     | Deals an extra `n` amount of damage to armor     | None                                                     |
+| Blackout     |     4     | ?                                                | None                                                     |
+| Bleed        |     7     | ?                                                | None                                                     |
+| Brightness   |     5     | Deal `n*4%` more dmg to wardens in the deep dark | Sharpness, Smite, Bane of Artho, Introversion, Slaughter |
+| Boss Fortune |     5     | Extra `n*5%` chance to drop boss loot            | ?                                                        |
+| Boss Hunter  |     8     | Extra `n*10% damage dealt to bosses              | ?                                                        |
+| Caffeinated  |     3     | Extra `n*5%` attack speed while sprinting        | ?                                                        |
+| Charge       |     2     | Right click to launch you `n*5x` speed           | ?                                                        |
+| Confusion    |     4     | Gives a `n*2%` chance of shuffling opponent's inv| ?                                                        |
+| Crit Luck    |     3     | Gives `n*4` Crit Chance                          | ?                                                        |
+| Criticals    |     3     | Gives `n*10%` increased crit damage              | ?                                                        |
+| Cubism       |     7     | Deal `n*5` more against slimes and magma cubes   | ?                                                        |
 
 ## Shields
 Rebound: reflects of dmg back; 10%-50%
@@ -149,8 +143,8 @@ Soul Absorb: Kills give regen 2
 Soul Bound: keep item after death
 
 ## Curses
-| Name | Description | 
-|------|-------------|
+| Name                   | Description                                   |
+|------------------------|-----------------------------------------------|
 | Curse of Breaklessness | Gives a 15% chance of failure to break blocks |
 | Curse of Harmlessness  | Gives a 15% chance for attacks to do nothing  |
 | Curse of Hungar        | Lose hunger 50% faster                        |

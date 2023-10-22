@@ -15,14 +15,13 @@ Swords, Axes, Tridents, Armor, Hoes
 | Name   | Max Level | Description                      | Conflicts | Rarity   |
 |--------|:---------:|----------------------------------|-----------|----------|
 | Sparks |     5     | Summons lightning.               | -         | Rare     |
-| Angler |     3     | Increases Kingfisher experience. | -         | Uncommon |
+
 
 ## Pickaxes
 | Name              | Max Level | Description                                                                 | Conflicts           | Rarity    |
 |-------------------|:---------:|-----------------------------------------------------------------------------|---------------------|-----------|
 | Blast Mining      |     3     | `5*n`% chance to mine blocks in a `3x3` area.                               | Veinminer           | Unique    |
 | Dynamite          |     2     | Mines blocks in a `1 + 4*n` area.                                           | -                   | Legendary |
-| Prospector        |     5     | Gives a `3*n` boost to mining experience.                                   | -                   | Uncommon  |
 | Nether Prospector |     2     | Gives a `34`% or `75`% boost (depends on the level).                        | Fortune, Silk Touch | Legendary |
 | Infernal Touch    |     1     | Automatically smelts mined blocks.                                          | Silk Touch          | Legendary |
 | Veinminer         |     4     | Mine up to `2 + 3*n` blocks in veins at once.                               | Blast Mining        | Rare      |
@@ -48,6 +47,7 @@ Swords, Axes, Tridents, Armor, Hoes
 | Crit Luck    |     3     | Gives `4*n` Crit Chance                           | -                                                             | Uncommon  |
 | Criticals    |     3     | Gives `10*n`% increased crit damage               | -                                                             | Epic      |
 | Cubism       |     7     | Deal `5*n` more against slimes and magma cubes    | -                                                             | Rare      |
+| One For All  |     1     | Deal 500% more damage                             | All Enchants                                                  | ?         |
 
 ## Shields
 | Name       | Max Level | Description                                                    | Conflicts | Rarity |
@@ -82,29 +82,21 @@ Swords, Axes, Tridents, Armor, Hoes
 | Name           | Max Level | Description                                     | Conflicts    | Rarity    |
 |----------------|:---------:|-------------------------------------------------|--------------|-----------|
 | Escape         |     2     | Gives a short `n%` speed boost after taking dmg | Streamlining | Epic      |
-|
+| Streamlining   |     4     | Gives `5*n%` extra speed                        | Escape       | Unique    |
 
 
 ## Leggings
 | Name           | Max Level | Description                                     | Conflicts    | Rarity    |
 |----------------|:---------:|-------------------------------------------------|--------------|-----------|
-| Poision Ivy    |     2     | -                                               | Thorns       | Epic      |
+| Poision Ivy    |     2     | ?                                               | Thorns       | Epic      |
 
 
 ## Elytras
-Rocket Saver: chance to not consume rockets 
-Wyvren: 10% increase to dmg; level 2 increases by 20%
+| Name           | Max Level | Description                                     | Conflicts    | Rarity    |
+|----------------|:---------:|-------------------------------------------------|--------------|-----------|
+| Rocket Saver   |     3     | Gives a `20*n%` to not consume fireworks        | -            | Rare      |
+| Wyvern         |     2     | Gives a `10*n%` bonus damage                    | -            | Epic      |
 
-## Bows
-Jumpshot: increases dmg while airborne
-Steel String: increases strength ##(glitched)##
-Overload: Increases crit chance and crit dmg
-Skull Puncture: increases headshot dmg
-Crit Luck: Increases Crit chance
-Thor: Chance to summon lightning, increases lightning per 1 and chance per level 
-Sniper: Increased dmg to far targets
-Strong Arm: increases strength
-Flashbang: Chance to blind enemies, 1% per level
 
 ## Axes
 | Name         | Max Level | Description                                       | Conflicts                                                     | Rarity    |
@@ -122,9 +114,13 @@ Flashbang: Chance to blind enemies, 1% per level
 | Cubism       |     7     | Deal `5*n` more against slimes and magma cubes    | -                                                             | Rare      |
 
 ## Crossbow
-Pentashot: Shoots 5 arrows 
-Jumpshot: Increases dmg while airborne
-Steel String: increases strength
+| Name         | Max Level | Description                                       | Conflicts                                                     | Rarity    |
+|--------------|:---------:|---------------------------------------------------|---------------------------------------------------------------|-----------|
+| Boss Hunter  |     8     | Extra `10*n`% damage dealt to bosses              | -                                                             | Rare      |
+| Cubism       |     7     | Deal `5*n` more against slimes and magma cubes    | -                                                             | Rare      |
+| Crit Luck    |     3     | Gives `4*n` Crit Chance                           | -                                                             | Uncommon  |
+| Criticals    |     3     | Gives `10*n`% increased crit damage               | -                                                             | Epic      |
+| Pentashot    |     1     | Shoot 5 arrows                                    | Tripleshot                                                    | -         |
 
 ## Bows
 | Name         | Max Level | Description                                       | Conflicts                                                     | Rarity    |
@@ -141,6 +137,7 @@ Sniper: Increased dmg to far targets
 Strong Arm: increases strength
 Flashbang: Chance to blind enemies, 1% per level
 Cubism: Increased dmg to slimes and magma cubes
+Warp Drive
 
 ## Trident
 Slipstream: Increases speed when held

@@ -58,7 +58,7 @@ export default defineConfig({
 							items: [
 								{ label: 'Lunox', link: '/reference/groups/lunox/' },
 								{ label: 'Solfax', link: '/reference/groups/solfax/' },
-								{ label: 'Vita', autogenerate: { directory: 'reference/groups/vita', collapsed: true } },
+								{ label: 'Vita', autogenerate: { directory: 'reference/groups/vita' }, collapsed: true },
 							]
 						},
 					]

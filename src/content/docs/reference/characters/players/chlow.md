@@ -3,7 +3,7 @@ title: Chlow
 description: TODO
 ---
 
-you should say p to him
+you should say p to them
 
 :)
 

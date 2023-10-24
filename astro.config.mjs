@@ -48,17 +48,19 @@ export default defineConfig({
 						{ label: 'Enchantments', link: '/reference/enchantments/' },
 						{
 							label: 'Characters',
+							collapsed: true,
 							items: [
-								{ label: 'Players', autogenerate: { directory: 'reference/characters/players', collapsed: true } },
-								{ label: 'Non-Players', autogenerate: { directory: 'reference/characters/non-players', collapsed: true } },
+								{ label: 'Players', collapsed: true, autogenerate: { directory: 'reference/characters/players' } },
+								{ label: 'Non-Players', collapsed: true, autogenerate: { directory: 'reference/characters/non-players' } },
 							]
 						},
 						{
 							label: 'Groups',
+							collapsed: true,
 							items: [
 								{ label: 'Lunox', link: '/reference/groups/lunox/' },
 								{ label: 'Solfax', link: '/reference/groups/solfax/' },
-								{ label: 'Vita', autogenerate: { directory: 'reference/groups/vita' }, collapsed: true },
+								{ label: 'Vita', collapsed: true, autogenerate: { directory: 'reference/groups/vita' } },
 							]
 						},
 					]

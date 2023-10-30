@@ -46,6 +46,7 @@ export default defineConfig({
 					label: 'Reference',
 					items: [
 						{ label: 'Enchantments', link: '/reference/enchantments/' },
+						{ label: 'Skill System', link: '/reference/skill-system/' },
 						{
 							label: 'Characters',
 							collapsed: true,

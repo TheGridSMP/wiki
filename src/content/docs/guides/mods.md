@@ -16,7 +16,6 @@ If you are an advanced users or want to do a manual installation, we recommend t
 |----------------------------------------------------------------------------|-----------------|
 | [Sodium](https://modrinth.com/mod/sodium)                                  | Optimizations   |
 | [Iris](https://modrinth.com/mod/iris)                                      | Visuals         |
-| [Continuity](https://modrinth.com/mod/continuity)                          | OptiFine Parity |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features)    | OptiFine Parity |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  | OptiFine Parity |
 | [Entity Culling](https://modrinth.com/mod/entityculling)                   | Optimizations   |
@@ -27,4 +26,5 @@ If you are an advanced users or want to do a manual installation, we recommend t
 | [Starlight](https://modrinth.com/mod/starlight)                            | Optimizations   |
 | [Model Gap Fix](https://modrinth.com/mod/model-gap-fix)                    | Visuals         |
 | [Smooth Coasters](https://modrinth.com/mod/smoothcoasters)                 | Visuals, QoL    |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)                 | QoL             |
 :::

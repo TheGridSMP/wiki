@@ -22,6 +22,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Getting Started', link: '/guides/getting-started/' },
 						{ label: 'Recommended Mods', link: '/guides/mods/' },
+						{ label: 'Resource Pack', link: '/guides/resourcepack/' },
 					],
 				},
 				{

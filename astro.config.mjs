@@ -22,6 +22,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Getting Started', link: '/guides/getting-started/' },
 						{ label: 'Recommended Mods', link: '/guides/mods/' },
+						{ label: 'Resource Pack', link: '/guides/resourcepack/' },
 					],
 				},
 				{
@@ -47,6 +48,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Enchantments', link: '/reference/enchantments/' },
 						{ label: 'Skill System', link: '/reference/skill-system/' },
+						{ label: 'Sacred Armors', link: '/reference/sacred-armors/' },
 						{
 							label: 'Characters',
 							collapsed: true,

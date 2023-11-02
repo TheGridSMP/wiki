@@ -3,5 +3,7 @@ title: Kali/Kalix
 description: TODO
 ---
 
-I'm a random person who somehow got the position of archivist for creating more bugs than they fixed - Kali, 2023
+This Wiki will be the end of me- Kali, 2023
+
+Kali is the archivist of the gsmp wiki
 

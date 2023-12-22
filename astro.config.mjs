@@ -66,10 +66,20 @@ export default defineConfig({
 							]
 						},
 						{
-							label: 'Armors',
+							label: 'Item Sets',
 							collapsed: true,
 							items: [
-								{ label: 'Sacred Armor', link: '/reference/armors/sacred-armors.md' } 
+								{ label: 'Sacred Armor', link: '/reference/armors/sacred-armors.md' } ,
+							]
+						},
+						{
+							label: 'Worlds',
+							collapsed: true,
+							items: [
+								{ label: 'Vita', link: '/reference/worlds/vita.md'},
+								{ label: 'The Core', link: '/reference/worlds/the-core.md'},
+								{ label: 'Ignition', link: '/reference/worlds/ignation.md'},
+								{ label: 'Obscura', link: '/reference/worlds/obscura.md'},
 							]
 						},
 					]

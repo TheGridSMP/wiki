@@ -15,7 +15,7 @@ Vita contains a corpus amount of wild life. Trees here grow far higher and bigge
 
 ## Landmarks
 
-### Waypoints
+#### Waypoints
 There are a total of 12 waypoints across vita
 1 - Fairy Forest
 Former home to the Great Fairy of Vita-

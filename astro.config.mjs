@@ -39,6 +39,7 @@ export default defineConfig({
 								{ label: 'Hunter\'s Code', link: '/lore/vita/part-4/' },
 								{ label: 'The Heavenly Nightmare', link: '/lore/vita/part-5/' },
 								{ label: 'The Last Avitazens', link: '/lore/vita/part-6/' },
+								{ label: 'Tales of Vita', collapsed: true, autogenerate: {directory: '/lore/vita/tales-of-vita'} },
 							],
 						},
 					],

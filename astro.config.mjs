@@ -48,7 +48,6 @@ export default defineConfig({
 					items: [
 						{ label: 'Enchantments', link: '/reference/enchantments/' },
 						{ label: 'Skill System', link: '/reference/skill-system/' },
-						{ label: 'Sacred Armors', link: '/reference/sacred-armors/' },
 						{
 							label: 'Characters',
 							collapsed: true,
@@ -64,6 +63,13 @@ export default defineConfig({
 								{ label: 'Lunox', link: '/reference/groups/lunox/' },
 								{ label: 'Solfax', link: '/reference/groups/solfax/' },
 								{ label: 'Vita', collapsed: true, autogenerate: { directory: 'reference/groups/vita' } },
+							]
+						},
+						{
+							label: 'Armors',
+							collapsed: true,
+							items: [
+								{ label: 'Sacred Armor', link: '/reference/sacred-armor/destroyer.md' } 
 							]
 						},
 					]

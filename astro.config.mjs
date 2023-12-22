@@ -69,7 +69,7 @@ export default defineConfig({
 							label: 'Armors',
 							collapsed: true,
 							items: [
-								{ label: 'Sacred Armor', link: '/reference/sacred-armor/destroyer.md' } 
+								{ label: 'Sacred Armor', link: '/reference/armors/sacred-armors.md' } 
 							]
 						},
 					]

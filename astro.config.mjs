@@ -85,6 +85,7 @@ export default defineConfig({
 							collapsed: true,
 							items: [
 								{ label: 'Vita', link: '/reference/worlds/vita'},
+								{ label: 'Towns', collapsed: true, autogenerate: { directory: 'reference/world/towns' } },
 								{ label: 'The Core', link: '/reference/worlds/the-core'},
 								{ label: 'Ignition', link: '/reference/worlds/ignation'},
 								{ label: 'Obscura', link: '/reference/worlds/obscura'},

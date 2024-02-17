@@ -36,7 +36,8 @@ Armor Piece Bonus
 ## The Promise
 ```
 * Destructive Force
-Blows create powerful backdrafts heating the air 10m around you and pulling enemies closer
+Blows create powerful backdrafts heating 
+the air 10m around you and pulling enemies closer
 Costs 20 Energy and has a 2 second cooldown
 ```
 
@@ -75,8 +76,9 @@ Full Set Stat Bonus:
 
 ## Vengence
 The preferred dagger of the vanguards, this dagger allows the user to become the Grim Reaper of the battlefield.
-
+```
 * Propulsion Drive
 Alt-Click allows the user to engage the kinetic launcher, causing the user to propel forward quickly.
 
 Costs 20 energy and 1.5 seconds cooldown.
+```

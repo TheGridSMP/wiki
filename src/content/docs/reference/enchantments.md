@@ -3,6 +3,7 @@ title: Custom Enchantments
 description: A list of custom enchantments
 ---
 
+
 ## All
 | Name                | Max Level | Description                                           | Conflicts | Rarity    |
 |---------------------|:---------:|-------------------------------------------------------|-----------|-----------|

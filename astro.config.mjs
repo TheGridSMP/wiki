@@ -58,6 +58,13 @@ export default defineConfig({
 							]
 						},
 						{
+							label: 'Events',
+							collapsed: true,
+							items: [
+								{label: 'Ballad of Avita', link: '/refrence/events/ballad-of-avita'},
+							]
+						},
+						{
 							label: 'Groups',
 							collapsed: true,
 							items: [

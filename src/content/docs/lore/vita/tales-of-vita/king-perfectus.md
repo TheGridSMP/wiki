@@ -48,7 +48,7 @@ united forces in wedlock, and the union was sealed.
 
 
 ## Archive 2
-The night of their incursion into Obscura, the
+The night of their incursion into [Obscura](/wiki/reference/world/obscura/), the
 King had gotten a visitor late at night in his
 quarters. It was the enderman with weird marks
 all over his body- marks of corruption...

@@ -10,7 +10,7 @@ most of their journey here
 
 
 ## Fauna
-Vita contains a corpus amount of wild life. Trees here grow far higher and bigger than in norvus, possibly due to the unbalanced energy that resides in Vita. 
+
 
 
 ## Landmarks

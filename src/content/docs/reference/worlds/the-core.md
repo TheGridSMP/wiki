@@ -17,8 +17,8 @@ and blue giant glowing trees. It is also the
 residence of the council.
 
 ## Shops
-Weapon and Armor smithy - [Artemis](\wiki\reference\characters\non-players\artemis.md)
-General Supplies - [Lyra](\wiki\reference\characters\non-players\lyra.md) 
-Leveling - [Eve](\wiki\reference\characters\non-players\eve.md) 
-Pet Supplies - [Riona](\wiki\reference\characters\non-players\riona.md)
-Hobbies - [Sasha](\wiki\reference\characters\non-players\sasha.md)
+Weapon and Armor smithy - [Artemis](/wiki/reference/characters/non-players/artemis/)
+General Supplies - [Lyra](/wiki/reference/characters/non-players/lyra/) 
+Leveling - [Eve](/wiki/reference/characters/non-players/eve) 
+Pet Supplies - [Riona](/wiki/reference/characters/non-players/riona/)
+Hobbies - [Sasha](/wiki/reference/characters/non-players/sasha/)

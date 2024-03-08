@@ -5,10 +5,12 @@ description: TODO
 todo
 
 ## About
-The other Factions Numen could join, they represent (insert stuff here) and light(my eyes burn)
+One of the two factions a numen could join,
+Solfax represents the light. Walking the path of 
+bravery and honnor. 
 
 ## Founder
-i fogor
+Xero
 
 ## Members
 i cant list them all by memeory

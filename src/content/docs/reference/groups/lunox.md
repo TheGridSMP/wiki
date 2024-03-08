@@ -4,7 +4,10 @@ description: TODO
 ---
 
 ## About
-Lunox is one of the two factions of the old world. They represent (insert stuff here) and darkness (wooo spoopy)
+One of the two factions a numen could join,
+Lunox represents the darkness. Rather from
+glory and fame from physical achievements, 
+Lunox follows an intellectual's path. 
 
 ## Founder
 3yes

@@ -20,6 +20,7 @@ description: A quick explanation of ranks.
 ## Staff
 `High Council` - S2 rank for Cafè Team.
 `{Elder}` - Sloth's exclusive rank.
-`Archivus` - a rank given to Sr. Archivus (Cali).
+`Archivus` - a rank given to Sr. Archivus (Kali).
 `Weaver` - a rank given to Sr. Developer (Theo).
-`Warden` - a rank given to Sr. Admin (Matt).
+`Overseer` - a rank given to Sr. Admins (Matti)
+`Warden` - a rank given to Moderaters (3yes).

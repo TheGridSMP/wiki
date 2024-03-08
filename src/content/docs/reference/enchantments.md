@@ -82,6 +82,8 @@ description: A list of custom enchantments
 | Name      | Max Level | Description                            | Conflicts | Rarity    |
 |-----------|:---------:|----------------------------------------|-----------|-----------|
 | Fortitude |     2     | Gives a `n * 2`% bonus to damage dealt |           | Legendary |
+| Thrive    |    25     | Gives `2 * n` bonus health             |           | Legendary |
+| Hard Worker |     3     | Gives a `n * 2`% boost to job experience                 |           | Legendary |
 
 ## Chestplate
 | Name                 | Max Level | Description                                                         | Conflicts | Rarity    |
@@ -232,7 +234,7 @@ description: A list of custom enchantments
 | End Affinity    |     4     | Increases damage dealt in the end by `20 + n * 10`%                                | Nether Affinity | Epic      |
 | Skull Puncture  |     3     | Increases headshot damage by `10 * n`%                                             |                 | Rare      |
 | Contagion       |     2     | Gives a `5 * n`% chance to spawn a cloud of poison around where your trident lands |                 | Legendary |
-| Neptune         |     3     | Gives +`20 + 10 * n` to ✦ Crit Damage but reduces ✧ Crit Chance by `40 - 5 * n`%   |                 | Legendary |
+| Neptune         |     3     | Gives +`20 + 10 * n` to ✦ Crit Damage but reduces ✧ Crit Chance by `40 - 5 * n`%  |                 | Legendary |
 | Strongarm       |     2     | Gives +`2 + 4 * n` 🗡 Strength                                                     |                 | Rare      |
 | Boss Fortune    |     5     | Gives a `5 * n`% bonus to boss drop chances                                        |                 | Common    |
 

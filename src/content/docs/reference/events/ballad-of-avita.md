@@ -17,7 +17,7 @@ description: todo
 
 ## Ballad of Avita
 
-The Ballad was a dream world in it was used
+ The Ballad was a dream world in it was used
  to test the players. Created by the Curator,
-we have rosen form this dream and arrived
- in a beautyful nightmare. 
+ we have rosen form this dream and arrived
+ in a beautiful nightmare. 

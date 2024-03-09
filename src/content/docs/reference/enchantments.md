@@ -74,7 +74,7 @@ description: A list of custom enchantments
 | Skull Puncture  |     3     | Increases headshot damage by `10 * n`%                                                               |                 | Rare      |
 | Pentashot       |     1     | Shoot 5 arrows                                                                                       |                 | Legendary |
 | Cubism          |     7     | Deal `5 * n`% more against slimes and magma cubes                                                    |                 | Rare      |
-| Overload        |     7     | Gives +`1 * n` ✧ Crit Chance and +`1 * n` ✦ Crit Damage                                              |                 | Rare      |
+| Overload        |     7     | Gives +`1 * n` ✧ Crit Chance and +`1 * n` ✦ Crit Damage                                             |                 | Rare      |
 | Steel String    |     3     | Gives +`3 + 2 * n` 🗡 Strength                                                                       |                 | Rare      |
 | Boss Fortune    |     5     | Gives a `5 * n`% bonus to boss drop chances                                                          |                 | Common    |
 

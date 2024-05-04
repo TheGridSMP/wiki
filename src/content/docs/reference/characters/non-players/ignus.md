@@ -1,5 +1,5 @@
 ---
-title: Queen Ignus
+title: Queen Ignis
 description: TODO
 ---
 

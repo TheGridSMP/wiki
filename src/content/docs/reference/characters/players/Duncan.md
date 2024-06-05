@@ -13,5 +13,8 @@ viable living which would be apparently easy as all his friends have already beg
 settlement. By now all Duncan’s previous powers and strength are gone, leaving a dishevelled 
 looking Duncan who might need a haircut and some new clothes and cleaning up.
 
+## Norvus
+[Doonkin](/wiki/reference/world/ignition/)
+
 ### Current Lore
 Is trapped in the allay body during the world shift.

@@ -3,4 +3,5 @@ title: Cohan
 description: TODO
 ---
 
-todo
+## About
+Cohan or Cohanclimate28 a long term member
